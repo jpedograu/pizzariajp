@@ -1,5 +1,5 @@
     <footer>
-        <p>Pizzaria do João &copy; 2022</p>
+        <p>Pizzaria do Jp &copy; 2024</p>
     </footer>
      
     <!-- BOOTSTRAP JS -->
